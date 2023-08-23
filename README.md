@@ -1,6 +1,10 @@
 # cursodio-swift
+<<<<<<< HEAD
 
 Exercícios propostos no curso de Swift da plataforma DIO.
+=======
+Exercícios propostos no curso de Swift da plataforma DIO. 
+>>>>>>> a30effa06602c7008e21a2669f3dd9eb12281d7d
 
 --- Unidade 03 ---
 
